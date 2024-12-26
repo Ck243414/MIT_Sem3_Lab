@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1693559881 source:d:\220953654_chaitanya\dslab5\lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1693560430 source:d:\220953654_chaitanya\dslab5\lab5\evaluate_postfix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1693560430 source:d:\220953654_chaitanya\dslab5\lab5\infix_to_postfix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

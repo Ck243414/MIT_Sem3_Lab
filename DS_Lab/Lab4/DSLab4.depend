@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1692956895 source:d:\220953654_chaitanya\dslab4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692956889 source:d:\220953654_chaitanya\dslab4\circularqueue.c
+	<stdio.h>
+	<conio.h>
+

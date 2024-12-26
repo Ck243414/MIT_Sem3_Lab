@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1691140507 source:d:\220953654_chaitanya\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691141587 source:d:\220953654_chaitanya\lab1\linearsearch.c
+	<stdio.h>
+
+1691142924 source:d:\220953654_chaitanya\lab1\binarysearch.c
+	<stdio.h>
+
+1691144177 source:d:\220953654_chaitanya\lab1\bubblesort.c
+	<stdio.h>
+
+1691144526 source:d:\220953654_chaitanya\lab1\insertionsort.c
+	<stdio.h>
+
+1691144526 source:d:\220953654_chaitanya\lab1\selectionsort.c
+	<stdio.h>
+

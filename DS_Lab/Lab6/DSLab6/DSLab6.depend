@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694167376 source:d:\220953654_chaitanya\dslab6\dslab6\infix_to_prefix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1692955491 source:d:\220953654_chaitanya\dslab3\palindrome.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1692953441 source:d:\220953654_chaitanya\dslab3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692955417 source:d:\220953654_chaitanya\dslab3\convert_base_stack.c
+	<stdio.h>
+	<string.h>
+
+1692955393 source:d:\220953654_chaitanya\dslab3\matching_parentheses.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
